@@ -24,7 +24,7 @@ je suis aussi super curieux de la création de jeux vidéos **complexes et créa
 
 ### mon dernier projet : 🎶 Music Island 🏝️
 
-[![Discover Music Island](gifs/music-island.gif)](https://music-island.romubuntu.dev)
+[![Discover Music Island](gif/music-island.gif)](https://music-island.romubuntu.dev)
 
 Personnalise ton 🏝️ île avec des 🏠 maisons, 🌲 arbres et 🎡 moulins et compose par la même occasion de la 🎵 musique !
 
