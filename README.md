@@ -7,7 +7,7 @@
 ☁️ je suis **dévelopeur créatif** sur du web et jv <br/>
 📹 en live **tous les jours** sur Twitch <br/>
 📺 prochaine vidéo youtube : **14 juin 2025** <br/>
-📬 tu peux me contacter ici : **romubuntu@proton.me** <br/>
+📬 tu peux me contacter ici : **romubuntu@pm.me** <br/>
 
 
 ### mes technos favs
